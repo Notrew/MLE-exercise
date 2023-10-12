@@ -2,7 +2,7 @@
 
 used to estimate parameters of a probability distribution
 
-### MLE step:
+### MLE steps:
 - import required library: 
     - from scipy.optimize import minimize
 - define the likelihood function and negative likelihood function
