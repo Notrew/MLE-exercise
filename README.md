@@ -17,6 +17,6 @@ used to estimate the parameters of a probability distribution
 |No.| Project |
 |---|---------|
 |1|[Estimate params of Linear Regression](https://github.com/Notrew/MLE-exercise/blob/main/scr/MLE-in%20linear%20regression.ipynb)|
-|1|[Estimate params of Normal Distribution-1](https://github.com/Notrew/MLE-exercise/blob/main/scr/MLE-in%20normal%20distribution-1.ipynb)|
-|1|[Estimate params of Normal Distribution-2](https://github.com/Notrew/MLE-exercise/blob/main/scr/MLE-in%20normal%20distribution-2.ipynb)|
-|1|[Estimate params of Poisson Distribution](https://github.com/Notrew/MLE-exercise/blob/main/scr/MLE-in%20poisson%20distribution.ipynb)|
+|2|[Estimate params of Normal Distribution-1](https://github.com/Notrew/MLE-exercise/blob/main/scr/MLE-in%20normal%20distribution-1.ipynb)|
+|3|[Estimate params of Normal Distribution-2](https://github.com/Notrew/MLE-exercise/blob/main/scr/MLE-in%20normal%20distribution-2.ipynb)|
+|4|[Estimate params of Poisson Distribution](https://github.com/Notrew/MLE-exercise/blob/main/scr/MLE-in%20poisson%20distribution.ipynb)|
