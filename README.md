@@ -1,6 +1,6 @@
 ### Maximum Likelihood Estimation:
 
-used to estimate parameters of a probability distribution
+used to estimate the parameters of a probability distribution
 
 ### MLE steps:
 - import required library: 
